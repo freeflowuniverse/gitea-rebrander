@@ -1,0 +1,6 @@
+gitea-repo-path: <path-to-your-gitea-repo>
+
+files:
+  # example of files will be updated
+  'home.tmpl': templates/home.tmpl
+  'footer_content.tmpl': templates/base/footer_content.tmpl
