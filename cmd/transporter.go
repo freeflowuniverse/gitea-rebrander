@@ -9,14 +9,17 @@ import (
 	config "github.com/freeflowuniverse/gitea-rebrander/internal"
 )
 
+// Transporter is a struct that holds the configuration and is responsible for transporting the files.
 type Transporter struct {
 	config *config.Config
 }
 
+// NewTransporter is a constructor for the Transporter struct.
 func NewTransporter(config *config.Config) *Transporter {
 	return &Transporter{config: config}
 }
 
+// Transport is a method that reads the source files and overrides the target files with the source files.
 func (t *Transporter) Transport() error {
 	root := t.config.GiteaRepoPath
 

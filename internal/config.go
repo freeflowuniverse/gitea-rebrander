@@ -6,11 +6,13 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
+// Config is a struct that holds the configuration for the application.
 type Config struct {
 	GiteaRepoPath string            `yaml:"gitea-repo-path"`
 	Files         map[string]string `yaml:"files"`
 }
 
+// ReadConfig is a function that reads the configuration from the config.yaml file.
 func ReadConfig() (*Config, error) {
 	var c Config
 
