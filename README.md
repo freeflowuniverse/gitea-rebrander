@@ -7,7 +7,7 @@ Script that syncs changes to gitea repository automatically.
 1- Clone the repo:
 
 ```bash
-git@github.com:freeflowuniverse/gitea-rebrander.git
+git clone git@github.com:freeflowuniverse/gitea-rebrander.git
 ```
 
 2- Configure config.yaml file
