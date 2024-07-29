@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="main_outline" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 640 640" style="enable-background:new 0 0 640 640;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#FFFFFF;stroke-width:6;stroke-miterlimit:10;}
+</style>
 <g>
 	<g>
-		<path d="M569.5,211.1h-499V97.2H511c32.1,0,58.1,26,58.1,58.1v55.8H569.5z"/>
-		<path d="M511,97.2H70.5v113.9h498.6v-56.2C569.5,122.8,543.1,97.2,511,97.2L511,97.2z"/>
+		<path class="st0" d="M569.5,211.1h-499V97.2H511c32.1,0,58.1,26,58.1,58.1v55.8L569.5,211.1L569.5,211.1z"/>
+		<path class="st0" d="M511,97.2H70.5v113.9h498.6v-56.2C569.5,122.8,543.1,97.2,511,97.2L511,97.2z"/>
 	</g>
-	<polygon points="569.5,376.5 216.8,376.5 216.8,263.1 569.5,263.1 	"/>
-	<path d="M511,542.8H70.5V428.9h498.6v55.4C569.5,516.4,543.1,542.8,511,542.8L511,542.8z"/>
+	<polygon class="st0" points="569.5,376.5 216.8,376.5 216.8,263.1 569.5,263.1 	"/>
+	<path class="st0" d="M511,542.8H70.5V428.9h498.6v55.4C569.5,516.4,543.1,542.8,511,542.8L511,542.8z"/>
 </g>
 </svg>
