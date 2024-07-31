@@ -93,7 +93,7 @@ After
 ![image](https://github.com/user-attachments/assets/ee938de3-71fb-4d86-9bbb-ec59c89a2f68)
 
 
-# Form manual rebranding at [Gitea source repository](https://github.com/go-gitea/gitea?tab=readme-ov-file)
+# For manual rebranding at [Gitea source repository](https://github.com/go-gitea/gitea?tab=readme-ov-file)
 
 - ### Changing the logo or Favicon:
 
