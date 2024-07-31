@@ -1,0 +1,9 @@
+gitea-repo-path: /home/eyad/watashi-ubuntu/projects/codescalers/gitea-rebrander/gitea
+
+files:
+  # example of files will be updated
+  'home.tmpl': templates/home.tmpl
+  'footer_content.tmpl': templates/base/footer_content.tmpl
+  'favicon.svg': assets/favicon.svg
+  'logo.svg': assets/logo.svg
+  'app.example.ini': custom/conf/app.example.ini
